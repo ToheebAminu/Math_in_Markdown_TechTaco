@@ -80,3 +80,21 @@ p_1&p_2&p_3&p_4
 \end{pmatrix}
 $$
 
+# I can also write Equation systemes and cases
+Just look what I do below.
+
+$$
+\begin{align}
+10x^2 + 5y &= 54 \\
+2x - y &= 1
+\end{align}
+$$
+
+Another function:
+
+$$
+f(x) = \begin{cases}
+x^2 & \text{if } x \geq 0 \\
+-x^2 & \text{if } x < 0
+\end{cases}
+$$
