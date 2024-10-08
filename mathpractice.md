@@ -22,3 +22,61 @@ I have others I can play with, follow me below to see.
 - $\pi \approx 3.14159$
 - $\sum_{i=1}^n i = \frac{n(n+1)}{2}$
 - $\int_0^1 x^2 dx = \frac{1}{3}$
+
+
+# Working with matrices
+
+I can work with $pmatrix$ or $matrix$ or $bmatrix$
+
+$$
+\begin{matrix}
+1&2&3\\
+4&5&6\\
+7&8&9
+\end{matrix}
+$$
+
+$$
+q =
+\begin{bmatrix}
+1&2&3\\
+4&5&6\\
+7&8&9
+\end{bmatrix}
+$$
+
+$$
+p =
+\begin{pmatrix}
+1&2&3&0\\
+4&5&6&0\\
+7&8&9&0
+\end{pmatrix}
+$$
+
+$$
+p =
+\begin{pmatrix}
+p_1\\
+p_2\\
+p_3
+\end{pmatrix}
+q =
+\begin{pmatrix}
+1&2&3&0\\
+4&5&6&0\\
+7&8&9&0
+\end{pmatrix}
+$$
+
+$$
+\begin{pmatrix}
+p_1&p_2&p_3&p_4
+\end{pmatrix}
+\begin{pmatrix}
+1&2&3&0\\
+4&5&6&0\\
+7&8&9&0
+\end{pmatrix}
+$$
+
